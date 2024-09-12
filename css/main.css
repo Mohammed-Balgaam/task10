@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+.astyle{
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+}
+.navbar {
+    padding-left: 213px;
+    padding-right: 273px;
+}
